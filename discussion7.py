@@ -2,6 +2,9 @@ import unittest
 import os
 import csv
 
+# Name: Sofia Finelli
+# Umich email: sfinelli@umich.edu
+
 ###############################################################################
 ##### TASK 1: CSV READER
 ###############################################################################
